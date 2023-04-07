@@ -26,6 +26,7 @@ class Teacher extends Person {
 	}
 }
 
+// Example
 const person = new Person("John", 25);
 console.log(person.name); // "John"
 person.age = 30;
